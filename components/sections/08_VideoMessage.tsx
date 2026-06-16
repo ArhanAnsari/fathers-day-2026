@@ -11,9 +11,9 @@ export default function VideoMessage() {
           <h2 className="text-3xl md:text-5xl font-light text-white tracking-tight">Something I Wanted To Say.</h2>
         </div>
         <CustomVideoPlayer 
-          src="/assets/personal_message.mp4" 
-          poster="/assets/message_thumb.jpg" 
-          aspectRatio="video"
+          src="personal_message.mp4" 
+          poster="message_thumb.jpg" 
+          aspectRatio="short"
         />
       </div>
     </section>
