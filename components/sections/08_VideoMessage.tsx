@@ -13,7 +13,7 @@ export default function VideoMessage() {
         <CustomVideoPlayer 
           src="personal_message.mp4" 
           poster="message_thumb.jpg" 
-          video"
+          aspectRatio="video"
         />
       </div>
     </section>
